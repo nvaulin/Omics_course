@@ -1,0 +1,2 @@
+Sample	command
+SRR13964607_1	fastp -i data/SRR13964607_1.fastq -I data/SRR13964607_2.fastq -o fastp_processing/R1_processed.fastq -O fastp_processing/R2_processed.fastq 

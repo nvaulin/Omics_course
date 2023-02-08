@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR13964607_2	/home/Nikita.Vaulin/Omics/lesson2/fastqc_reports/SRR13964607_2_fastqc.zip
+FastQC	all_sections	SRR13964607_1	/home/Nikita.Vaulin/Omics/lesson2/fastqc_reports/SRR13964607_1_fastqc.zip
+fastp	all_sections	SRR13964607_1	/home/Nikita.Vaulin/Omics/lesson2/fastp_processing/fastp.json
+Bowtie 2 / HiSAT2	all_sections	SRR13964607_ce11.bt2.metrics	/home/Nikita.Vaulin/Omics/lesson2/alignment/SRR13964607_ce11.bt2.metrics
+Samtools	stats	SRR13964607_ce11	/home/Nikita.Vaulin/Omics/lesson2/alignment/SRR13964607_ce11.stats
+Samtools	flagstat	SRR13964607_ce11.filtered	/home/Nikita.Vaulin/Omics/lesson2/alignment/SRR13964607_ce11.filtered.flagstat
+Samtools	flagstat	SRR13964607_ce11	/home/Nikita.Vaulin/Omics/lesson2/alignment/SRR13964607_ce11.flagstat
+Picard	DuplicationMetrics	SRR13964607_ce11_alignment_sorted	/home/Nikita.Vaulin/Omics/lesson2/alignment/marked_dup_metrics.txt

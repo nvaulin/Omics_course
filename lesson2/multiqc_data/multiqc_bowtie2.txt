@@ -1,0 +1,2 @@
+Sample	total_reads	paired_total	paired_aligned_none	paired_aligned_one	paired_aligned_multi	paired_aligned_discord_one	paired_aligned_mate_none	paired_aligned_mate_one	paired_aligned_mate_multi	overall_alignment_rate	paired_aligned_mate_multi_halved	paired_aligned_mate_none_halved	paired_aligned_mate_one_halved
+SRR13964607_ce11.bt2.metrics	16104007	16104007	2416291	7518649	6169067	947896	1433400	609171	894219	95.55	447109.5	716700.0	304585.5
