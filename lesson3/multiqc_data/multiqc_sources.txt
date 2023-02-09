@@ -1,0 +1,12 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	control_ribo_rep1_sorted	/home/Nikita.Vaulin/Omics/lesson3/hisat2/marked_dup_metrics.txt
+Samtools	stats	control_ribo_rep1_sorted_markdup	/home/Nikita.Vaulin/Omics/lesson3/hisat2/control_ribo_rep1_sorted_markdup.stats
+Samtools	flagstat	control_ribo_rep1_sorted_markdup	/home/Nikita.Vaulin/Omics/lesson3/hisat2/control_ribo_rep1_sorted_markdup.flagstat
+Salmon	all_sections	enp1_ribo_rep2	/home/Nikita.Vaulin/Omics/lesson3/salmon/enp1_ribo_rep2/libParams/flenDist.txt
+Salmon	all_sections	enp1_ribo_rep1	/home/Nikita.Vaulin/Omics/lesson3/salmon/enp1_ribo_rep1/libParams/flenDist.txt
+Salmon	all_sections	control_ribo_rep1	/home/Nikita.Vaulin/Omics/lesson3/salmon/control_ribo_rep1/libParams/flenDist.txt
+Salmon	all_sections	control_ribo_rep2	/home/Nikita.Vaulin/Omics/lesson3/salmon/control_ribo_rep2/libParams/flenDist.txt
+fastp	all_sections	enp1_ribo_rep2.R1	/home/Nikita.Vaulin/Omics/lesson3/filtered/enp1_ribo_rep2.fastp.json
+fastp	all_sections	enp1_ribo_rep1.R1	/home/Nikita.Vaulin/Omics/lesson3/filtered/enp1_ribo_rep1.fastp.json
+fastp	all_sections	control_ribo_rep1.R1	/home/Nikita.Vaulin/Omics/lesson3/filtered/control_ribo_rep1.fastp.json
+fastp	all_sections	control_ribo_rep2.R1	/home/Nikita.Vaulin/Omics/lesson3/filtered/control_ribo_rep2.fastp.json

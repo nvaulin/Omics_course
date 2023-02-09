@@ -1,0 +1,11 @@
+Sample	Salmon_mqc-generalstats-salmon-percent_mapped	Salmon_mqc-generalstats-salmon-num_mapped	fastp_mqc-generalstats-fastp-pct_duplication	fastp_mqc-generalstats-fastp-after_filtering_q30_rate	fastp_mqc-generalstats-fastp-after_filtering_q30_bases	fastp_mqc-generalstats-fastp-after_filtering_gc_content	fastp_mqc-generalstats-fastp-pct_surviving	fastp_mqc-generalstats-fastp-pct_adapter	Picard_mqc-generalstats-picard-PERCENT_DUPLICATION	Samtools_mqc-generalstats-samtools-flagstat_total	Samtools_mqc-generalstats-samtools-mapped_passed	Samtools_mqc-generalstats-samtools-error_rate	Samtools_mqc-generalstats-samtools-non_primary_alignments	Samtools_mqc-generalstats-samtools-reads_mapped	Samtools_mqc-generalstats-samtools-reads_mapped_percent	Samtools_mqc-generalstats-samtools-reads_properly_paired_percent	Samtools_mqc-generalstats-samtools-reads_MQ0_percent	Samtools_mqc-generalstats-samtools-raw_total_sequences
+control_ribo_rep1	76.0293168962403	14268780																
+control_ribo_rep1.R1			27.361600000000003	0.964627	1810085137.0	0.419169	98.7073848911277	0.08258982070335306										
+control_ribo_rep1_sorted									0.30627									
+control_ribo_rep1_sorted_markdup										67232310	66740774	0.0007517379	29205832.0	37534942.0	98.7073848911277	97.967011301967	0.1190512568637043	38026478.0
+control_ribo_rep2	75.7066843280104	11573754																
+control_ribo_rep2.R1			25.752999999999997	0.964679	1474548512.0	0.42112	98.78948889725079	0.07938635799234518										
+enp1_ribo_rep1	66.26491313694127	26197406																
+enp1_ribo_rep1.R1			28.629900000000003	0.946944	3742228954.0	0.425163	98.32456045580564	0.22418663979839243										
+enp1_ribo_rep2	65.83832245199291	21695734																
+enp1_ribo_rep2.R1			26.0486	0.945934	3116333117.0	0.420782	97.98251112994726	0.14349913761065092										

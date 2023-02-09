@@ -1,0 +1,4 @@
+enp1_ribo_rep1
+enp1_ribo_rep2
+control_ribo_rep1
+control_ribo_rep2
